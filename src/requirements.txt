@@ -18,3 +18,7 @@ seaborn
 streamlit
 streamlit-folium
 xgboost
+streamlit>=1.30
+pandas==1.5.3
+plotly>=5.17
+requests
