@@ -99,24 +99,4 @@ The project uses GitHub Actions for automation:
 - **Model Training**: Scheduled model retraining
 - **Inference Pipeline**: Model deployment and serving
 
-## 📈 Project Status
 
-- **Language Distribution**: 99.7% Jupyter Notebook, 0.3% Python
-- **Last Updated**: 3 months ago
-- **Commits**: 19 total commits
-
-## 📝 License
-
-This project is available under the MIT License. See LICENSE file for details.
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Contact
-
-For questions or suggestions, please open an issue or contact the maintainer.
-
----
-
-*This project analyzes Citi Bike usage patterns to provide insights into urban mobility and bike-sharing optimization.*
